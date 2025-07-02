@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2025-07-02T04:37:20.487592544</meta:creation-date><dc:date>2025-07-02T05:25:27.252238490</dc:date><meta:editing-duration>PT48M</meta:editing-duration><meta:editing-cycles>13</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/520$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="55" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2025-07-02T04:37:20.487592544</meta:creation-date><dc:date>2025-07-02T12:28:41.384217447</dc:date><meta:editing-duration>PT6H7M27S</meta:editing-duration><meta:editing-cycles>19</meta:editing-cycles><meta:generator>LibreOffice/25.2.3.2$Linux_X86_64 LibreOffice_project/520$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="77" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-30307</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">28049</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">5419</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-41462</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">39204</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">6773</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Sheet1">
-       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">11</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">11</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">14</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
-       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">1</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
@@ -118,7 +118,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -238,9 +240,12 @@
    <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm"/>
   </style:style>
   <style:style style:name="co2" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="5.129cm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.861cm"/>
   </style:style>
   <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="12.166cm"/>
+  </style:style>
+  <style:style style:name="co4" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="4.858cm"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
@@ -312,8 +317,10 @@
    <table:table table:name="Sheet1" table:style-name="ta1">
     <table:table-column table:style-name="co1" table:number-columns-repeated="3" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co1" table:number-columns-repeated="6" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co1" table:number-columns-repeated="6" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -321,6 +328,9 @@
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>שם משפחה</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>כינוי</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>ארגון / תנועה</text:p>
@@ -344,6 +354,9 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>מדווח/מקור (במידה ומוכן להחשף)</text:p>
      </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>הערות</text:p>
+     </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
@@ -353,6 +366,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>הירשפלד</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>בני ברית</text:p>
      </table:table-cell>
@@ -363,7 +377,7 @@
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
@@ -373,11 +387,14 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>טננבאום</text:p>
      </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>שבשבת</text:p>
+     </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>עשרות</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
@@ -387,7 +404,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>משכית</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>נהריה</text:p>
      </table:table-cell>
@@ -395,7 +412,7 @@
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
@@ -405,7 +422,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>לבב</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>נהריה</text:p>
      </table:table-cell>
@@ -413,7 +430,7 @@
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
@@ -423,7 +440,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>סבג</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>נהריה</text:p>
      </table:table-cell>
@@ -431,7 +448,7 @@
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
@@ -443,13 +460,16 @@
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>בני ברית</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>נהריה</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
@@ -459,7 +479,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>זיגלמן</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>נהריה</text:p>
      </table:table-cell>
@@ -467,7 +487,7 @@
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
@@ -477,7 +497,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>גולדפרב</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>נהריה</text:p>
      </table:table-cell>
@@ -485,7 +505,7 @@
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
@@ -495,7 +515,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>שטראוס</text:p>
      </table:table-cell>
-     <table:table-cell/>
+     <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>נהריה</text:p>
      </table:table-cell>
@@ -503,7 +523,7 @@
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
@@ -513,6 +533,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>וענונו</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>בני ברית</text:p>
      </table:table-cell>
@@ -523,7 +544,7 @@
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
@@ -533,6 +554,7 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>וענונו</text:p>
      </table:table-cell>
+     <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>בני ברית</text:p>
      </table:table-cell>
@@ -543,7 +565,82 @@
      <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>מאיר</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>שפיר</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>בני ברית, הבונים החופשיים, ביהכ&quot;נ הרפורמי נהריה (קהילת &quot;אמת ושלום&quot;)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>נהריה</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>אסף גרי</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>שמשון</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>פופלניקר</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>בני ברית, הבונים החופשיים, ביהכ&quot;נ הרפורמי נהריה (קהילת &quot;אמת ושלום&quot;)</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>נהריה</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>אסף גרי</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>גדעון</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>האוזנר</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>הבונים החופשיים</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>כל הארץ</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>אסף גרי</text:p>
+     </table:table-cell>
+     <table:table-cell/>
     </table:table-row>
    </table:table>
    <table:named-expressions/>
